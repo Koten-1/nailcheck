@@ -1,0 +1,13 @@
+# Large data files
+data/
+models/
+plots/
+D:/pip_cache/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Jupyter
+.ipynb_checkpoints/
